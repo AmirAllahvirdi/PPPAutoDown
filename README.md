@@ -5,11 +5,9 @@ I created it for fun using ChatGPT :)
 
 How to install:
 --------------------------------
-Simply click on `PPPAutoDown.exe` in `for_redistribution_files_only` folder.
+If you have MATLAB Runtime compiler, Simply click on `PPPAutoDown.exe` in `for_redistribution_files_only` folder.
 
-or
-
-Intall it using `PPPAutoDownInstaller_web.exe` in for_redistribution folder
+Otherwise, Intall it using `PPPAutoDownInstaller_web.exe` in for_redistribution folder. It will install the MATLAB Runtime compiler and the PPPAutoDown app.
 
 How to use:
 --------------------------------
