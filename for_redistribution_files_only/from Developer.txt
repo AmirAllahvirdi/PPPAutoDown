@@ -1,0 +1,35 @@
+PPPAutoDown
+This is a repository to share the PPPAutoDown app, a free app to easily download precise products from the Center for Orbit Determination in Europe (CODE), as RINEX observation and navigation of CUT0 IGS station located at Curtin University, Perth, Australia.
+
+I created it for fun using ChatGPT :)
+
+How to install:
+If you have MATLAB Runtime compiler, Simply click on PPPAutoDown.exe in for_redistribution_files_only folder.
+
+Otherwise, Intall it using PPPAutoDownInstaller_web.exe in for_redistribution folder. It will install the MATLAB Runtime compiler and the PPPAutoDown app.
+
+Important Note: I recommend you run the app as administrator. In some PCs, the Windows firewall doesn't let the app download the files. There are two ways to run it as administrator:
+
+Right-click on the app icon and select `Run as administrator
+Right-click on the main app icon (not the shortcut on the desktop, it is mainly available on C:\Program Files\PPPAutoDown\application) -> Properties -> Compatibility -> tick Run this program as an administrator
+
+
+How to use:
+Select a folder to save the downloaded files,
+Select the requested date
+Tick which of the following files should be downloaded: -SP3: Precise Ephemeris files including precise coordinates of GNSS satellites -CLK: Precise clock information of GNSS satellites (two files with different sample intervals will be downloaded: 5 min and 5 s files) -ERP: Earth Rotation Parameters -BIA: Bias files for the integer ambiguity resolution -YYn: RINEX Navigation file including broadcast ephemeris of GNSS satellites -CUT0: RINEX Observation file of CUT0 station. (CUT0 is an IGS station located at Curtin University, Perth, Western Australia)
+Press Download
+You can reset everything by pressing Reset
+
+
+Amir Allahvirdi-Zadeh (email me for any enquiry: amir.allahvirdizadeh@curtin.edu.au)
+
+---------------------------------------------------------------------------------------------
+DISCLAIMER: This app is provided "as is" and we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the app or the information, products, services, or related graphics contained in the app for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this app.
+
+Through this app, you may be able to link to other apps or websites which are not under our control. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them.
+
+Every effort is made to keep the app up and running smoothly. However, we take no responsibility for, and will not be liable for, the app being temporarily unavailable due to technical issues beyond our control.
+---------------------------------------------------------------------------------------------
