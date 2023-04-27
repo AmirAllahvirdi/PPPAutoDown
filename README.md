@@ -1,5 +1,5 @@
 # PPPAutoDown
-This is a repository to share the PPPAutoDown app, a free app to easily download precise products from the Center for Orbit Determination in Europe (CODE), and RINEX observation and navigation files of CUT0 IGS station located, at Curtin University, Perth, Australia.
+This is a repository to share the PPPAutoDown app, a free app to easily download precise products from the Center for Orbit Determination in Europe (CODE) and RINEX observation and navigation files of CUT0 IGS station located at Curtin University, Perth, Australia.
 
 I created it for fun using **ChatGPT :)**
 
