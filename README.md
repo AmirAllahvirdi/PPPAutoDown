@@ -13,8 +13,6 @@ Otherwise, Intall it using `PPPAutoDownInstaller_web.exe` in for_redistribution 
 1. Right-click on the app icon and select `Run as administrator
 2. Right-click on the main app icon (not the shortcut on the desktop, it is mainly available on C:\Program Files\PPPAutoDown\application) -> Properties -> Compatibility -> tick Run this program as an administrator
 
-**Important Note 2:** In some PCs, the downloaded files will always be saved in C drive, no matter which folder you select! (Don't blame me, it's due to Windows admin permissions to write into the selected folder :D)
-
 How to use:
 --------------------------------
 1. Select a folder to save the downloaded files,
