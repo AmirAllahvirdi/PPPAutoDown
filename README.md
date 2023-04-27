@@ -1,13 +1,17 @@
 # PPPAutoDown
 This is a repository to share the PPPAutoDown app, a free app to easily download precise products from the Center for Orbit Determination in Europe (CODE), as RINEX observation and navigation of CUT0 IGS station located at Curtin University, Perth, Australia.
 
-I created it for fun using ChatGPT :)
+I created it for fun using **ChatGPT :)**
 
 How to install:
 --------------------------------
 If you have MATLAB Runtime compiler, Simply click on `PPPAutoDown.exe` in `for_redistribution_files_only` folder.
 
 Otherwise, Intall it using `PPPAutoDownInstaller_web.exe` in for_redistribution folder. It will install the MATLAB Runtime compiler and the PPPAutoDown app.
+
+**Important Note:** I recommend you run the app as administrator. In some PCs, the Windows firewall doesn't let the app download the files. There are two ways to run it as administrator:
+1. Right-click on the app icon and select `Run as administrator
+2. Right-click on the main app icon (not the shortcut on the desktop, it is mainly available on C:\Program Files\PPPAutoDown\application) -> Properties -> Compatibility -> tick Run this program as an administrator
 
 How to use:
 --------------------------------
